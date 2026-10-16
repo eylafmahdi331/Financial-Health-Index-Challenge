@@ -2,13 +2,6 @@
 
 This notebook demonstrates an end-to-end Machine Learning pipeline to classify businesses into risk categories (`low`, `medium`, and `high`) using demographic, operational, financial, and behavioral survey data.
 
-## Table of Contents
-1. [Project Objective](#project-objective)
-2. [Data Exploration & Insights](#data-exploration--insights)
-3. [Data Preprocessing & Cleaning](#data-preprocessing--cleaning)
-4. [Model Development & Architecture](#model-development--architecture)
-5. [Model Evaluation & Comparison](#model-evaluation--comparison)
-6. [Feature Association & Importance](#feature-association--importance)
 
 ---
 
